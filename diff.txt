@@ -1,0 +1,111 @@
+diff --git a/_config.yml b/_config.yml
+index 62d590f..960c1fb 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -8,9 +8,9 @@
+ # Site settings
+ title: bluucaterpilla
+ email: N/A 
+-description: The Liberal Jekyll Theme
++description: i code. ಠᴗಠ
+ baseurl: "" # the subpath of your site, e.g. /blog
+-url: "http://yourdomain.com" # the base hostname & protocol for your site
++url: "http://bluucaterpilla.github.io" # the base hostname & protocol for your site
+ twitter_username: bluucaterpilla
+ github_username:  bluucaterpilla
+ paginate: 5
+diff --git a/_posts/2016-03-30-design-stories.markdown b/_posts/2016-03-30-design-stories.markdown
+deleted file mode 100644
+index 33be7c0..0000000
+--- a/_posts/2016-03-30-design-stories.markdown
++++ /dev/null
+@@ -1,14 +0,0 @@
+----
+-layout: post
+-title:  "Design Stories : Gravity"
+-date:   2016-03-30 19:45:31 +0530
+-categories: ["design", "science", "life"]
+-author: "Hemang Kumar"
+----
+-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+-
+-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-
+- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+-
+-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+diff --git a/_posts/2016-03-30-science.markdown b/_posts/2016-03-30-science.markdown
+deleted file mode 100644
+index 21efa67..0000000
+--- a/_posts/2016-03-30-science.markdown
++++ /dev/null
+@@ -1,14 +0,0 @@
+----
+-layout: post
+-title:  "Science of Gravity"
+-date:   2016-03-30 19:45:31 +0530
+-categories: science
+-author: "Chandler Bing"
+----
+-"Could I be anymore pulling ?"
+-
+-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-
+- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+-
+-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+diff --git a/_posts/2016-03-30-science0.markdown b/_posts/2016-03-30-science0.markdown
+deleted file mode 100644
+index a16415c..0000000
+--- a/_posts/2016-03-30-science0.markdown
++++ /dev/null
+@@ -1,14 +0,0 @@
+----
+-layout: post
+-title:  "Long Longer and more Longer titles look cool too!!"
+-date:   2016-03-30 19:45:31 +0530
+-categories: science
+-author: "Chandler Bing"
+----
+-"Could I be anymore pulling ?"
+-
+-Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-
+- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+-
+-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+diff --git a/_posts/2016-03-30-welcome-to-jekyll.markdown b/_posts/2016-03-30-welcome-to-jekyll.markdown
+deleted file mode 100644
+index 42d2876..0000000
+--- a/_posts/2016-03-30-welcome-to-jekyll.markdown
++++ /dev/null
+@@ -1,29 +0,0 @@
+----
+-layout: post
+-title:  "Welcome to Gravity!"
+-date:   2016-03-30 19:45:31 +0530
+-categories: jekyll update
+----
+-Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
+-
+-Some General Instructions for Jekyll
+-
+-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+-
+-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+-
+-Jekyll also offers powerful support for code snippets:
+-
+-{% highlight ruby %}
+-def print_hi(name)
+-  puts "Hi, #{name}"
+-end
+-print_hi('Tom')
+-#=> prints 'Hi, Tom' to STDOUT.
+-{% endhighlight %}
+-
+-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+-
+-[jekyll-docs]: http://jekyllrb.com/docs/home
+-[jekyll-gh]:   https://github.com/jekyll/jekyll
+-[jekyll-talk]: https://talk.jekyllrb.com/
