@@ -1,6 +1,6 @@
 ---
 layout: page
-title : About
+title: About
 permalink: /about/
 ---
 
@@ -24,11 +24,9 @@ permalink: /about/
     <pre>---
 ```
 
-layout: post | default | page
-title:  String<span class="hint"> Post Title</span>
-date:   Time Stamp
-categories: String | Array of Strings<span class="hint"> Category / Categories </span>
-\---</pre>
+layout: post | default | page title: String<span class="hint"> Post Title</span>
+date: Time Stamp categories: String | Array of Strings<span class="hint">
+Category / Categories </span> \---</pre>
 
 ```
   </div>
@@ -37,11 +35,8 @@ categories: String | Array of Strings<span class="hint"> Category / Categories <
     <pre>---
 ```
 
-layout: post
-title:  "The One with the Blackout"
-date:   2016-03-30 19:45:31 +0530
-categories: ["life", "friends"]
-\---</pre>
+layout: post title: "The One with the Blackout" date: 2016-03-30 19:45:31 +0530
+categories: ["life", "friends"] \---</pre>
 
 ```
   </div>
@@ -66,11 +61,10 @@ categories: ["life", "friends"]
     <pre>---
 ```
 
-layout: page
-title: String <span class="hint">Title of the webpage</span>
+layout: page title: String <span class="hint">Title of the webpage</span>
 permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
-\---</pre>
+tagline: String <span class="hint">Optional Gravity Feature : Tagline for the
+page</span> \---</pre>
 
 ```
   </div>
@@ -79,11 +73,8 @@ tagline: String <span class="hint">Optional Gravity Feature : Tagline for the pa
     <pre>---
 ```
 
-layout: page
-title:  "Science"
-permalink:   /science/
-tagline : "Humanity is overrated."
-\---</pre>
+layout: page title: "Science" permalink: /science/ tagline : "Humanity is
+overrated." \---</pre>
 
 ```
   </div>
@@ -116,12 +107,12 @@ tagline : "Humanity is overrated."
 <pre>---
 ```
 
-layout: archive<span class="hint"> Archive Page Layout</span>
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint"> Tagline for the page</span>
-category : String <span class="hint"> Name of the category of which the page will show posts.</span>
-\---</pre>
+layout: archive<span class="hint"> Archive Page Layout</span> title: String
+<span class="hint">Title of the webpage</span> permalink: / String /
+<span class="hint">Permalink for the webpage</span> tagline: String
+<span class="hint"> Tagline for the page</span> category : String
+<span class="hint"> Name of the category of which the page will show
+posts.</span> \---</pre>
 
 ```
   </div>
@@ -130,12 +121,8 @@ category : String <span class="hint"> Name of the category of which the page wil
     <pre>---
 ```
 
-layout: archive
-title:  "Design"
-permalink : "Design"
-category: "design"
-tagline: "It's all about perception."
-\---</pre>
+layout: archive title: "Design" permalink : "Design" category: "design" tagline:
+"It's all about perception." \---</pre>
 
 ```
 </div><br>
@@ -144,4 +131,3 @@ tagline: "It's all about perception."
   </div>
 </p>
 </div>
-

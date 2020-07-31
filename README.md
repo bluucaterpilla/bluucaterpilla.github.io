@@ -4,10 +4,10 @@
 
 ---
 
-(•̀ᴗ•́)و ̑̑  : <https://bluucaterpilla.github.io/>
+(•̀ᴗ•́)و ̑̑ : <https://bluucaterpilla.github.io/>
 
 ---
 
-| ʕ•ᴥ•ʔ | & | ฅ^•ﻌ•^ฅ | 
+| ʕ•ᴥ•ʔ | & | ฅ^•ﻌ•^ฅ |
 
 ---
