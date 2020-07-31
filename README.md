@@ -1,4 +1,4 @@
-# bluucaterpilla ಠᴗಠ
+# bluucaterpilla ಠᴗ�
 
 **_Welcome_**
 
